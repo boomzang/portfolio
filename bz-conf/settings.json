@@ -2,5 +2,6 @@
   author: 'Chris Jacobs',
   name:   'Chris Portfolio',
   url:    'portfolio/',
+  icon:   'bz-conf/icon.png',
   description: 'Chris Jacobs portfolio of awesome.
 }
