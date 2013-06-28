@@ -3,5 +3,6 @@
   "description": "Chris Jacobs portfolio of awesome.",
   "icon":        "bz-conf/icon.png",
   "name":        "Chris Portfolio",
-  "url":         "portfolio/"
+  "url":         "portfolio/",
+  "repo_url":    "boomzang/portfolio"
 }
