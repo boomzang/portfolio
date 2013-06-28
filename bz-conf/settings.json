@@ -1,7 +1,7 @@
 {
-  author: 'Chris Jacobs',
-  name:   'Chris Portfolio',
-  url:    'portfolio/',
-  icon:   'bz-conf/icon.png',
-  description: 'Chris Jacobs portfolio of awesome.
+  "author":      "Chris Jacobs",
+  "description": "Chris Jacobs portfolio of awesome."
+  "icon":        "bz-conf/icon.png",
+  "name":        "Chris Portfolio",
+  "url":         "portfolio/",
 }
