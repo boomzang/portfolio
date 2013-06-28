@@ -1,0 +1,563 @@
+body
+{
+	background: white;
+	}
+
+.navbargradient
+{
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+border: 1px solid #ededed;
+box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+-moz-box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+-webkit-box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+}
+
+
+body.mainindex
+{
+	background: url('../img/youtube_background.png') repeat left top #f5f5f5;
+}
+
+p
+{
+	padding: 0 40px;
+}
+
+.littlenavicon
+{
+	height: 34px;
+	position: relative;
+	background-color: white;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 1px solid #ededed;
+	box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+	-moz-box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+	-webkit-box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+}
+
+.littlenavicon .navicontype
+{
+	position: relative;
+	left: 10px;
+	top: 2px;
+	font-family: Hev-Cn, Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+	color: #329dc8 !important;
+}
+
+/*interactive nav elements*/
+
+.top_sec_nav>ul {
+	margin:0px 0px 0px 0px;
+}
+
+
+.top_sec_nav .span4 {
+	display:inline-block;
+	margin-bottom:10px;
+}
+
+.top_sec_nav .span4:nth-child(4n+0){
+	margin-left:0px;
+}
+
+.top_sec_nav .span4:nth-child(7n+0){
+	margin-left:0px;
+	}
+
+/*end interactive nav elements*/
+
+
+.splashheader
+{
+	margin: 30px 0 0;
+}
+
+.ipgcopy
+{
+	font: 16px/28px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
+	color: #7c7c7c;
+	padding-bottom: 12px;
+}
+
+
+.chriscopyiphone
+{
+    font-size: 18px;
+    
+}
+
+
+.navitem
+{
+    padding: 0 20px 20px;
+    list-style: none;
+    
+}
+
+.whatsthis
+{
+    color: white;
+}
+
+.whatsthis:hover
+{
+    color: white;
+    text-decoration: underline;
+}
+
+.navhilite
+{
+	background: #26B8E3;
+	color: white;
+	padding: 2px 5px 2px 4px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	text-decoration: none;
+}
+
+.navhilite:hover
+{
+	text-decoration: none;
+	color: white;
+	cursor: text;
+}
+
+.pipenav
+{
+	color: #14578d;
+}
+
+.paragraphnav
+{
+	color: #a4a4a4;
+	margin-bottom: 28px;
+	text-align: center;
+	font: normal 300 15px/29px "nimbus-sans";
+}
+
+.checkbox.checkmove
+{
+    margin-top: 5px;
+    font: italic 14px Georgia, "Times New Roman", Times, serif;
+    color: #96dafd;
+}
+
+textarea, input
+{
+    background-color: #efefef; color: #757575; background: #efefef !important;
+}
+
+
+
+label
+{
+    color: #767676;
+    font-size: 11px;
+}
+
+.checkme
+{
+    
+}
+
+.footerback
+{
+    
+    padding: 40px;
+    margin-bottom: 0px !important; 
+}
+
+
+.footerwhite
+{
+    background-color: white;
+}
+
+.yoostar
+{
+    margin: 15px 0 0 0;
+}
+
+.avatar
+{
+    position: relative;
+    top: -14px;
+}
+
+.projectdescription
+{
+	color: #707070;
+	font: 13px/23px Georgia, 'Times New Roman', Times, serif;
+	font-style: italic;
+	text-align: center;
+}
+
+.maincaption
+{
+    z-index: 7;
+   /* background-color: rgb(255, 255, 255);*/
+    padding: 11px 18px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+	color: #525252;
+	letter-spacing: 1px;
+	font: 11px/22px "Hev-Roman", Arial, Helvetica, Geneva, sans-serif;
+}
+
+.maincaption.white
+{
+	background: url('../img/youtube_background.png') repeat left top #f5f5f5;
+	background-color: black;
+	}
+
+.maincaption.termiluxtype
+{
+	background-color: #58c6ff;
+	color: #fdfeff;
+	text-align: left;
+	font: 12px Hev-Cn, Arial, Helvetica, Geneva, sans-serif;
+}
+
+.comingsoon
+{
+	font: 11px Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+.alignleft
+{
+	text-align: left;
+}
+
+.alignright
+{
+	text-align: right;
+}
+
+.mainheaderimage
+{
+    padding: 0 20px 20px;
+}
+
+.projecttitle
+{
+	font: 17px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #3998C3;
+	position: relative;
+	top: -6px;
+	text-align: center;
+}
+
+.parainfo
+{
+    margin-top: 5px;
+	padding: 0 19px 5px;
+}
+
+.responsibilities, .accomplishments
+{
+	font-family: "Hev-Cn";
+	font-style: normal;
+	font-weight: 300;
+    padding: 0 19px 10px;
+    text-align: center;
+	letter-spacing: 1px;
+}
+
+.accomplishments:hover
+{
+color: #386384;
+cursor: pointer;
+text-decoration: underline;
+ 
+}
+
+
+[class*="icon"]
+{
+color: #e97d3b !important;
+}
+
+
+.ipgsubcopy
+{
+	font: 11px/19px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #7C7C7C;
+	padding: 0 !important;
+	margin: 0 0 42px 40px;
+
+}
+
+.responsibilitiescopy
+{
+	font: 11px/19px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #7c7c7c;
+	margin: 0 20px 0 20px;
+}
+
+.responsibilitiesinner 
+{
+	font: 11px/19px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #7C7C7C;
+	margin: 28px 20px 17px 39px;
+
+	padding: 0px;
+}
+
+.logo
+{
+	margin-top: 20px;
+	color: #9a9a9a;
+	font: 27px "Hev-LtCn";
+}
+
+.pagetitle
+{
+	color: #59c8ff;
+	font-family: "Hev-ThCn";
+	letter-spacing: 1px;
+}
+
+.logolight
+{
+    font-family: "Hev-ThCn";
+    font-weight: 300;
+    font-style: normal;
+}
+
+.tagline
+{
+  color: #9a9a9a;
+  margin: 6px 0 33px;
+  font: normal 300 14px "Hev-ThCn";
+  letter-spacing: 1px;
+}
+
+.chriscopy
+{
+	color: #484848;
+    padding-bottom: 4px;
+	font: normal 300 25px "Hev-LtCn";
+	position: relative;
+	text-align: center;
+}
+
+.gotoindex
+{
+	color: #b0b0b0;
+}
+
+.gotoindex:hover
+{
+	text-decoration: none !important;
+	color: #d5d5d5;
+
+}
+
+
+.homedescription
+{
+	color: #cccccc;
+	text-align: center;
+	font-style: italic;
+	font: italic 12px/23px Georgia, "Times New Roman", Times, serif;
+	color: #BCBEBE;
+	padding:10px;
+}
+
+.thumbnails
+{
+margin-top: 50px;	
+}
+
+
+#main
+{
+	/*background: url('../img/youtube_background.png') repeat left top #f5f5f5;*/
+	
+}
+
+.borderon
+{
+	border: 1px solid red !important;
+}
+
+.projectlogo
+{
+	text-align: center;
+}
+
+.projectbox
+{
+	box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.35);
+	background-color: black;
+}
+
+.projectimage
+{
+	margin-bottom: 10px;
+}
+
+.splashthumbnails
+{
+	border: 1px solid #252525;
+}
+
+.thumbcolor
+{
+	border: 1px solid #eee;
+}
+
+.vimeo
+{
+    font: italic normal 13px Georgia, "Times New Roman", Times, serif;
+    color: #3998C3;
+}
+
+.vimeohd
+{
+    font: italic normal 12px Georgia, "Times New Roman", Times, serif;
+    color: #3998C3;
+    position: relative;
+    top: 11px;
+    padding-bottom: 30px;
+}
+
+a.thumbnail:hover
+{
+	border: 1px solid #454545;
+}
+
+.homeheading
+{
+	color: #d8d8d8;
+	text-align: center;
+	font: 18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+.alerttypeface
+{
+	text-align: center;
+	font: 13px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 0;
+}
+
+.js-video
+{
+	height: 0;
+	padding-top: 0;
+	padding-bottom: 57%;
+	margin-bottom: 10px;
+	margin-bottom: 20px;
+	position: relative;
+	overflow: hidden;
+}
+
+.thumbnail
+{
+	border: none !important;
+}
+
+
+
+.js-video.widescreen
+{
+	padding-bottom: 57.25%;
+}
+
+.js-video.vimeo
+{
+	padding-top: 0;
+}
+
+.js-video embed, .js-video iframe, .js-video object, .js-video video
+{
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+
+
+.ipg
+{
+	margin: 32px 30px;
+}
+
+.futureunited
+{
+	margin: 15px 30px 20px;
+}
+
+
+.forkheadings
+{
+	color: #878787;
+	text-align: center;
+	font: 17px "ff-cocon-web-pro", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+.footer
+{	
+	
+	text-align: center;
+	color: #565656;
+	font: italic 13px Georgia, "Times New Roman", Times, serif;
+}
+
+.scribble
+{
+	height: 35px; background: #f5f5f5 url('../img/scribble.jpg') no-repeat left top;
+}
+
+
+.navhel
+{
+	font: 14px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+}
+
+
+.navbar-inner .container {width:960px;}
+
+
+
+/* Form */
+#successMessage {
+    display:none;
+    margin-top:10px;
+    
+}
+#loadergif {
+    display:none;
+}
+.error {
+  color: #b94a48;
+}
+input.error,
+select.error,
+textarea.error {
+  border-color: #b94a48;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+input.error:focus,
+select.error:focus,
+textarea.error:focus {
+  border-color: #953b39;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
+  -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
+  box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #d59392;
+}
+
