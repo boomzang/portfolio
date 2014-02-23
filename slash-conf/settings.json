@@ -1,8 +1,8 @@
 {
   "author":      "Chris Jacobs",
   "description": "Portfolio of Industrial Designs. Most notably, Boomzang router designs.",
-  "icon":        "bz-conf/icon.png",
+  "icon":        "slash-conf/icon.png",
   "name":        "Chris Portfolio or Router Designs",
   "url":         "portfolio/",
-  "repo_url":    "boomzang/portfolio"
+  "repo_url":    "slashnet/portfolio-demo"
 }
